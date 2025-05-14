@@ -1,0 +1,460 @@
+body {
+  height: 100vh;
+}
+  
+.frame-36,
+.frame-36 * {
+  box-sizing: border-box;
+}
+.frame-36 {
+  background: #effdff;
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 1250px;
+  min-width: 700px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-11 {
+  background: #5ea5c1;
+  padding: 40px 109px 40px 109px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 100px;
+  position: relative;
+}
+.frame-112 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.water-drop-svgrepo-com-4 {
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+  overflow: hidden;
+}
+.heart-svgrepo-com-1 {
+  width: 69%;
+  height: 69%;
+  position: absolute;
+  right: 14.88%;
+  left: 16.12%;
+  bottom: 0%;
+  top: 31%;
+  overflow: hidden;
+}
+.vector {
+  width: 83.33%;
+  height: 71.73%;
+  position: absolute;
+  right: 8.33%;
+  left: 8.33%;
+  bottom: 14.58%;
+  top: 13.69%;
+  overflow: visible;
+}
+.plus-svgrepo-com-1 {
+  width: 47.28%;
+  height: 47.28%;
+  position: absolute;
+  right: 26.45%;
+  left: 26.27%;
+  bottom: 26.27%;
+  top: 26.45%;
+  overflow: visible;
+}
+.group-4 {
+  height: auto;
+  position: absolute;
+  left: 9.52px;
+  top: 0px;
+  overflow: visible;
+}
+.frame-57 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 687px;
+  min-width: 687px;
+  position: relative;
+  border-radius: 8px;
+  box-shadow: var(
+    --sombra-batata-box-shadow,
+    -2px 4px 6px 0px rgba(0, 0, 0, 0.25)
+  );
+}
+.frame-15 {
+  background: #a0d4e7;
+  border-radius: 8px 8px 0px 0px;
+  padding: 33px 213px 33px 213px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 308px;
+  min-width: 687px;
+  position: relative;
+}
+.pencil-square-3 {
+  flex-shrink: 0;
+  width: 130px;
+  height: 130px;
+  position: relative;
+  overflow: visible;
+}
+.frame-20 {
+  background: #6dacc5;
+  border-radius: 0px 0px 8px 8px;
+  padding: 8px 33px 8px 33px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-56 {
+  display: flex;
+  flex-direction: row;
+  gap: 28px;
+  row-gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  
+}
+.frame-43 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 604px;
+  position: relative;
+}
+.frame-45 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.tipo-de-vacina {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  margin-top: 10px;
+
+}
+.rectangle-2 {
+  background: #ffffff;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1px;
+  position: relative;
+
+}
+.frame-44 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 604px;
+  position: relative;
+}
+.idade-recomendada {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-47 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 604px;
+  position: relative;
+}
+.endere-o-rua-n-mero-bairro-e-cep {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-452 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 604px;
+  position: relative;
+}
+.alterar-hor-rio-dispon-vel {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.atualizar-quantidade-de-vacinas {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-48 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 604px;
+  position: relative;
+}
+.disponiblidade {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-49 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 604px;
+  position: relative;
+}
+.data-00-00-0000 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-51 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 603px;
+  position: relative;
+}
+.atualizar-descri-o-de-vacina {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.rectangle-22 {
+  border-radius: 0px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 133px;
+  position: relative;
+  overflow: visible;
+}
+.frame-50 {
+  background: #102e46;
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.concluir {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-53 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+
+
+input[type="file"] {
+  display: none; /* Oculta o input original */
+}
+
+textarea:focus, input:focus, select:focus {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+} 
+
+textarea{
+  font-size: 20px;
+}
+
+input {
+    padding: 5px;
+    display: block;
+    width: 100%;
+    background-color: transparent;
+    color: white;
+    outline: 0;
+    box-shadow:none;
+    border-color: transparent;
+}
+
+::-webkit-input-placeholder {
+  color: rgb(255, 255, 255);
+}
+
+:-moz-placeholder {
+  color: rgb(255, 255, 255);
+}
+
+::-moz-placeholder {
+  color: rgb(255, 255, 255);  
+}
+
+:-ms-input-placeholder {  
+  color: rgb(255, 255, 255);  
+}
+
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 30px #6dacc5 inset;
+}
+
+
+input:-webkit-autofill {  
+    -webkit-text-fill-color: rgb(255, 255, 255) !important;
+}
+
+input::-webkit-calendar-picker-indicator{
+  display: none;
+}
+
+input::-webkit-inner-spin-button{
+  display: none;
+}
+
+.arq {
+  background: #a0d4e7;
+  border-radius: 8px 8px 0px 0px;
+  padding: 33px 213px 33px 213px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  width: 687px;
+  height: 308px;
+  position: relative;  /* Necessário para posicionar a imagem sobre ela */
+  overflow: hidden;    /* Impede que o conteúdo ultrapasse a div */
+}
+
+.arq #imagem {
+  position: absolute;  /* A imagem carregada será posicionada sobre o ícone */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;   /* Garante que a imagem cubra toda a área sem distorção */
+  visibility: hidden;  /* A imagem será escondida até ser carregada */
+}
+
+.arq img {
+  position: absolute; /* Faz a imagem sobrepor a div */
+  top: 0;
+  left: 0;
+  width: 100%;        /* Faz com que a imagem ocupe 100% da div */
+  height: 100%;       /* Ajusta a altura da imagem para cobrir a div */
+  object-fit: cover;  /* Garante que a imagem cubra toda a área sem distorção */
+  visibility: hidden; /* Esconde a imagem inicialmente */
+}
+
+/* CSS para o ícone File.svg */
+.arq #imagem {
+  visibility: visible;
+  width: 132px;        /* Tamanho fixo do ícone */
+  height: 132px;       /* Tamanho fixo do ícone */
+  object-fit: contain;
+  display: flex;
+  left: 50%;           /* Centraliza o ícone horizontalmente */
+  top: 50%;            /* Centraliza o ícone verticalmente */
+  transform: translate(-50%, -50%); /* Correção de centralização para compensar o 50% */
+}
